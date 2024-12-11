@@ -18,7 +18,7 @@ const Signup = () => {
             <div className="container-p mt-6">
                 <h1>Signup Form</h1>
                 <Suspense fallback={<Loading />}>
-                    <SignupForm userName="" userEmail="" update={false} />
+                    <SignupForm />
                 </Suspense>
             </div>
         </main>
