@@ -8,7 +8,7 @@ export default function Home() {
                 <section className="main-home">
                     <div className="flex flex-col lg:flex-row lg:gap-x-4">
                         <Image
-                            src="/images/home/book-pile-or.webP"
+                            src="/images/home/book-pile-or.webp"
                             alt="book pile"
                             width={480}
                             height={320}
