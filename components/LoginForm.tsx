@@ -76,7 +76,7 @@ const LoginForm = () => {
                     )}
                 </div>
                 <p className="mt-6">
-                    Already registered? <Link href="/signup">Signup</Link>
+                    Not registered yet? <Link href="/signup">Signup</Link>
                 </p>
             </div>
         </form>
