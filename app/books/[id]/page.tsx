@@ -66,7 +66,7 @@ const Book = async ({ params }: { params: any }) => {
                         </div>
 
                         <p className="text-center mt-6">
-                            Click on the button below to return to your booklist
+                            Click the button below to return to your booklist
                             page.
                         </p>
                         <ButtonNavigate title="Return" url="/books" />
