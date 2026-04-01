@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <footer>
             <div className="container-padding py-6">
-                &copy; {year} MyBooks - All Rights Reseved
+                &copy; {year} MyBooks - All Rights Reserved
             </div>
         </footer>
     );
